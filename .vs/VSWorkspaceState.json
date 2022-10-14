@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaGestionVentas",
+    "\\SistemaGestionVentas\\capaDatos",
+    "\\SistemaGestionVentas\\capaNegocio",
+    "\\SistemaGestionVentas\\capaPresentacion",
+    "\\SistemaGestionVentas\\capaPresentacion\\Properties"
+  ],
+  "SelectedNode": "\\SistemaGestionVentas\\capaPresentacion\\App.config",
+  "PreviewInSolutionExplorer": false
+}

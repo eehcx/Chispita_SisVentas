@@ -1,0 +1,53 @@
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\System.Data.SqlClient.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\System.Data.SqlClient.xml
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\capaEntidad.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\capaNegocio.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\capaDatos.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\capaEntidad.pdb
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\capaNegocio.pdb
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\capaDatos.pdb
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmUsuario.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmCategorias.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmComprasDetalle.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmComprasRegistrar.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProductos.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmProveedores.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentasDetalle.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmVentasRegistrar.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmNegocio.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReporteCompras.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.frmReporteVentas.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.Inicio.es-MX.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\ClosedXML.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\ExcelNumberFormat.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\ClosedXML.pdb
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\ClosedXML.xml
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\ExcelNumberFormat.xml
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.Modales.mdProductos.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\capaPresentacion.Modales.mdProveedor.resources
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\itextsharp.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\itextsharp.xml
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\La chispita SisVentas.exe.config
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\La chispita SisVentas.exe
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\La chispita SisVentas.pdb
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\es-MX\La chispita SisVentas.resources.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\es-MX\La chispita SisVentas.resources.dll
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\La chispita SisVentas.exe
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\La chispita SisVentas.pdb
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\La chispita SisVentas.exe.manifest
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\bin\Debug\La chispita SisVentas.application
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\La chispita SisVentas.exe.manifest
+D:\peyo-\ARCHIVOS BASE\Documents\Programación Files\Visual Studio\VentasDesktop\SistemaGestionVentas\capaPresentacion\obj\Debug\La chispita SisVentas.application
